@@ -7,7 +7,7 @@
 
 <body>
     <h1>Chat with PDFs App</h1>
-    <p>The MultiPDF Chat App is a Python application that allows you to chat with multiple PDF documents. You can ask questions about the PDFs using natural language, and the application will provide relevant responses based on the content of the documents. This app utilizes a language model to generate accurate answers to your queries. Please note that the app will only respond to questions related to the loaded PDFs.</p>
+    <p>The Chat with PDFs App is a Python application that allows you to chat with multiple PDF documents. You can ask questions about the PDFs using natural language, and the application will provide relevant responses based on the content of the documents. This app utilizes a language model to generate accurate answers to your queries. Please note that the app will only respond to questions related to the loaded PDFs.</p>
 
 <h2>How It Works</h2>
     
@@ -21,7 +21,7 @@
 </ol>
 
 <h2>Dependencies and Installation</h2>
-<p>To install the MultiPDF Chat App, please follow these steps:</p>
+<p>To install the Chat with PDFs App, please follow these steps:</p>
 
 <ol>
         <li>Clone the repository to your local machine.</li>
@@ -35,7 +35,7 @@
 <pre><code>OPENAI_API_KEY=your_secret_api_key</code></pre>
 
 <h2>Usage</h2>
-<p>To use the MultiPDF Chat App, follow these steps:</p>
+<p>To use the Chat with PDFs App, follow these steps:</p>
 
 <ol>
         <li>Ensure that you have installed the required dependencies and added the OpenAI API key to the .env file.</li>
@@ -50,7 +50,7 @@
 
 <p>Ask questions in natural language about the loaded PDFs using the chat interface.</p>
 
-<p>Access the MultiPDF Chat App project <a href="https://ozzychatpdfs.streamlit.app/">here</a>.</p>
+<p>Access the Chat with PDFs App project <a href="https://ozzychatpdfs.streamlit.app/">here</a>.</p>
 </body>
 
 </html>
