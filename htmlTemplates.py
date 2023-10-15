@@ -23,6 +23,10 @@ css = '''
   padding: 0 1.5rem;
   color: #fff;
 }
+
+#MainMenu {visibility: hidden;}
+
+footer {visibility: hidden;}
 '''
 
 bot_template = '''
